@@ -42,9 +42,15 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
+![WhatsApp Image 2025-10-19 at 21 08 50_f0e78a57](https://github.com/user-attachments/assets/0617187a-38f2-4022-af79-9e06064c51a9)
 
+##CALCULATION:
+
+![WhatsApp Image 2025-10-19 at 21 08 51_ef80a89f](https://github.com/user-attachments/assets/a0e4e8d3-862b-419f-af16-df50cb792e82)
 
 ## GRAPH:
+![WhatsApp Image 2025-10-19 at 21 08 50_1ec6934f](https://github.com/user-attachments/assets/39de8a33-c225-41d5-ae8e-ee6afb5e7352)
 
 
 ## RESULT:                   
+Thus, the Differential Amplifier is designed and theie performance is tested using Op-Amp.
